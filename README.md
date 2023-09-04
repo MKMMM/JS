@@ -9,15 +9,15 @@ A curated list of JavaScript projects and utilities focusing on data manipulatio
    - **Technologies/Modules Used**: JavaScript, DOM Manipulation
 
 ### 2. **Implementacje**
-   - **Description**: Examples of RTB tag and data scrapping, extracting relevant information from various web sources for further analysis or usage.
-   - **Technologies/Modules Used**: JavaScript, `axios`, `cheerio`, etc.
+   - **Description**: A tool dedicated to data scrapping, extracting relevant information from various web sources for further analysis or usage.
+   - **Technologies/Modules Used**: JavaScript, `GTM`, etc.
 
 ### 3. **Project hippo/src**
-   - **Description**: Serves as a data collector, gathering raw from a stream-dump for analytics, user behavior understanding, and feedback.
+   - **Description**: Serves as a data collector, gathering user-specific or generic data for analytics, user behavior understanding, and feedback.
    - **Technologies/Modules Used**: JavaScript, Web APIs, Local Storage
 
 ### 4. **Webforms**
    - **Description**: A collection of web forms tailored for document creation, ensuring user-friendly interactions and efficient data collection for various document types.
-   - **Technologies/Modules Used**: HTML, CSS, JavaScript
+   - **Technologies/Modules Used**: HTML, CSS, JavaScript, AJAX
 
 ---
