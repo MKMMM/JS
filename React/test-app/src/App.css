@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background: linear-gradient(to right, #6dd5ed, #2193b0); /* Stylish gradient background */
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  margin: 20px 0;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.1); /* Semi-transparent white for visibility */
+  border-radius: 10px;
+}
+canvas {
+  width: 600px !important;
+  height: 400px !important;
+}
+
+.div{
+  text-align: center;
+  
+}
